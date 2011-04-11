@@ -1,4 +1,5 @@
 #include <string.h>
+#include <stdio.h>
 
 #include "rmd160.h"
 #include "wrap_160.h"
